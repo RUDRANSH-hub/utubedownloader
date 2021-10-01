@@ -10,7 +10,6 @@ jsonschema==3.2.0
 Pillow==8.2.0
 pyparsing==2.4.7
 pyperclip==1.8.2
-pypiwin32==223
 pyppeteer==0.2.6
 pyquery==1.4.3
 PyRect==0.1.4
